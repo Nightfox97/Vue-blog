@@ -1,0 +1,93 @@
+{
+  "results": [{
+    "title": "Corruption",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj10.jpg",
+    "published": "2017-09-14T18:17:00Z",
+    "author": "Michelle Blackford",
+    "id": "Corruption"
+  }, {
+    "title": "Unity in Diversty",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj1.jpg",
+    "published": "2017-09-09T22:11:56Z",
+    "author": "G Rakshith",
+    "id": "Unity in Diversity"
+  }, {
+    "title": "Gender Inequality",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj6.jpg",
+    "published": "2017-09-05T00:55:44Z",
+    "author": "Hugo Curness",
+    "id": "Gender Inequality"
+  }, {
+    "title": "Hate Crimes",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj7.jpg",
+    "published": "2017-07-28T18:31:01Z",
+    "author": "Derrik Yerrington",
+    "id": "Hate Crimes"
+  }, {
+    "title": "Gun Violence",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj8.jpg",
+    "published": "2017-06-12T10:01:51Z",
+    "author": "Michelle Blackford",
+    "id": "Gun Violence"
+  }, {
+    "title": "Oppression",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj3.jpg",
+    "published": "2017-06-02T03:22:11Z",
+    "author": "Nathan Greave",
+    "id": "Oppression"
+  }, {
+    "title": "Religion",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj12.jpg",
+    "published": "2017-05-27T00:05:26Z",
+    "author": "Tommi Filipson",
+    "id": "Religion"
+  }, {
+    "title": "Ageism",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj15.jpg",
+    "published": "2017-05-25T13:12:39Z",
+    "author": "Nathan Greave",
+    "id": "Ageism"
+  }, {
+    "title": "Sexual Orientation",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj11.png",
+    "published": "2017-05-10T13:57:35Z",
+    "author": "Nathan Greave",
+    "id": "Sexual Orientation"
+  }, {
+    "title": "Education",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj16.jpg",
+    "published": "2017-04-12T09:43:53Z",
+    "author": "Nathan Greave", 
+    "id": "Education"
+  }, {
+    "title": "Human Rights",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj14.jpg",
+    "published": "2017-04-03T22:21:22Z",
+    "author": "Derrik Yerrington",
+    "id": "Human Rights"
+  }, {
+    "title": "Unemployment",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/robson-hatsukami-morgan.jpg",
+    "published": "2017-03-10T21:11:06Z",
+    "author": "Derrik Yerrington",
+    "id": "Unemployment"
+  }, {
+    "title": "Workplace Discrimination",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj19.jpg",
+    "published": "2016-12-15T23:29:56Z",
+    "author": "Nathan Greave",
+    "id": "Workplace Discrimination"
+  }, {
+    "title": "Disability",
+    "image": "https://facepalm97.s3.amazonaws.com/Assets/sj17.jpg",
+    "published": "2016-11-02T02:21:18Z",
+    "author": "Martha Bonde",
+    "id": "Disability"
+  }, {
+    "title": "Gender Discrimination",
+    "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/450744/maarten-van-den-heuvel.jpg",
+    "published": "2016-10-27T09:42:32Z",
+    "author": "Tommi Filipson",
+    "id": "Gender Discrimination"
+  }]
+}
